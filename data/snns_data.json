@@ -1,0 +1,52 @@
+{
+  "users": {
+    "1007363904": {
+      "id": "1007363904",
+      "name": "إدارة المنصة",
+      "username": "sts_admin",
+      "email": "sts@snns.internal",
+      "passwordHash": "98636f85376e8f69da90fb0b4196bcbd784c2c3c1cf79092a89b34880cd491ae",
+      "displayName": "SNNS STS Root",
+      "role": "owner",
+      "isVerified": true,
+      "createdAt": 1790153315953,
+      "lastSeen": 1790153315953
+    },
+    "usr_mudv368l_p6w5": {
+      "id": "usr_mudv368l_p6w5",
+      "name": "أحمد المشرف",
+      "username": "ahmed",
+      "email": "ahmed@snns.sa",
+      "passwordHash": "62ee364b17c357d4777550836f42c981cd25934c069a16bf86047d69626def2a",
+      "displayName": "أحمد المشرف",
+      "role": "user",
+      "createdAt": 1790153356629,
+      "lastSeen": 1790153356629,
+      "phoneVisibility": "private",
+      "accountType": "person"
+    }
+  },
+  "sessions": {
+    "snns_tok_6ff63897e3972f366b2fbe9798b5340bca0725bb3a8883940576c01f855cc5fb": {
+      "token": "snns_tok_6ff63897e3972f366b2fbe9798b5340bca0725bb3a8883940576c01f855cc5fb",
+      "userId": "usr_mudv368l_p6w5",
+      "createdAt": 1790153356630
+    }
+  },
+  "follows": {},
+  "blocks": {},
+  "messages": [],
+  "quickReplies": [],
+  "calls": {},
+  "streams": {},
+  "streamChat": [],
+  "streamReactions": [],
+  "videos": [],
+  "videoComments": [],
+  "marketAds": [],
+  "companies": [],
+  "groups": [],
+  "groupMessages": [],
+  "verifications": [],
+  "notifications": []
+}
